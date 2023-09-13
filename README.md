@@ -15,8 +15,6 @@ To get started with GameHub, follow these steps:
 
 ## About the project 
 
-I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
-
 - Build front-end apps with React and TypeScript
 - Build reusable function components
 - Style your components using vanilla CSS, CSS modules, and CSS-in-JS
