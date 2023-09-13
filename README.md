@@ -21,6 +21,4 @@ To get started with GameHub, follow these steps:
 - Manage component state
 - Build forms with React Hook Forms
 - Use VSCode shortcuts to increase your productivity
-- Write clean code like a pro
-- Apply best practices
 
